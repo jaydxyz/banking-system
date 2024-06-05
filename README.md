@@ -1,4 +1,4 @@
-# Basic Banking System
+# Banking System
 
 This is a simple command-line banking system implemented in Java. It allows users to create bank accounts, perform basic banking operations like deposits, withdrawals, and fund transfers, and view account balances and transaction history.
 
